@@ -15,5 +15,5 @@ Given an integer `N`, the task is to reverse it.
 
 ### Constraints
 
-- \(1 \leq T \leq 1000\)
-- \(1 \leq N \leq 1000000\)
+- 1 ≤ T ≤ 1000
+- 1 ≤ N ≤ 1000000
