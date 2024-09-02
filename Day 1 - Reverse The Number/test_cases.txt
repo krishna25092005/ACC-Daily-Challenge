@@ -1,4 +1,4 @@
-### Sample Input
+-> Sample Input
 4 
 12345 
 31203 
@@ -6,7 +6,7 @@
 2300
 
 
-### Sample Output
+-> Sample Output
 54321 
 30213 
 3212 
