@@ -1,19 +1,20 @@
-## Approach
+# Day 1: Reverse The Number
 
-This solution reads the number of test cases, then processes each number by reversing it. The reversal is achieved by repeatedly extracting the last digit and appending it to a new number, which results in the reverse of the original number. Here's how it works:
+## Problem Statement
 
-1. **Input Reading**: Read the total number of test cases `T`.
-2. **Reversing Process**:
-   - For each number `N`, initialize `reverseNumber` to 0.
-   - Extract the last digit of `N` using `n % 10` and append it to `reverseNumber`.
-   - Divide `N` by 10 to remove the last digit and repeat the process until `N` becomes 0.
-3. **Output the Result**: Print the reversed number for each test case.
+Given an integer `N`, the task is to reverse it.
 
-### Example Walkthrough
+### Input
 
-- For `N = 12345`, the reverse is calculated as `54321`.
-- For `N = 2300`, after reversing, the leading zeros are removed, resulting in `32`.
+- The first line contains an integer `T`, the total number of test cases.
+- The next `T` lines each contain an integer `N`.
 
----
+### Output
 
-Let’s code, collaborate, and conquer! 💻✨
+- For each test case, display the reverse of the given number `N` on a new line.
+
+
+ ### Constraints 
+ 
+ - 1 ≤ T ≤ 1000
+ - 1 ≤ N ≤ 1000000
