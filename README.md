@@ -16,9 +16,9 @@ This repository is dedicated to the daily coding challenges provided by our Codi
 ## 📂 Repository Structure
 
 - **Daily Challenges**: Each day's challenge will have its own directory named after the date (e.g., `2024-09-02`). Inside each directory, you will find:
-  - 📝 `problem.md`: A markdown file containing the problem statement.
+  - 📝 `approach.md`: A brief explanation of my approach, logic, and any edge cases I considered.
   - 💻 `solution.cpp`: My C++ solution file for the problem.
-  - 🧠 `README.md`: A brief explanation of my approach, logic, and any edge cases I considered.
+  - 🧠 `README.md`: A markdown file containing the problem statement.
   - 📊 `test_cases.txt`: A file containing sample input/output pairs that I used to test my solution.
 
 ## 💡 How to Contribute
