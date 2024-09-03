@@ -11,6 +11,9 @@ This solution involves creating a triangle of stars that is centered and grows w
 ### Example Walkthrough
 
 - For `N = 5`, the output is:
+  
+  ![images](https://github.com/user-attachments/assets/4419727a-6b24-4c47-bd68-76180e2fffe9)
+  
   - Row 0: 2 leading spaces, 1 star.
   - Row 1: 1 leading space, 3 stars.
   - Row 2: 0 leading spaces, 5 stars.  
