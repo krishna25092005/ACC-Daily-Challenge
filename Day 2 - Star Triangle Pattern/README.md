@@ -7,7 +7,7 @@ Ninja is very fond of patterns. For a given integer `N`, he wants to create an N
 ### Example
 
 **Input**:  
-`N = 3`
+`N = 5`
 
 **Output**: 
 
