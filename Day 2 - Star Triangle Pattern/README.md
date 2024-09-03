@@ -12,3 +12,8 @@ Ninja is very fond of patterns. For a given integer `N`, he wants to create an N
 **Output**: 
 
 ![images](https://github.com/user-attachments/assets/4419727a-6b24-4c47-bd68-76180e2fffe9)
+
+### Constraints 
+ 
+ - 1 ≤ N ≤ 20
+ - Time Limit: 1 sec
