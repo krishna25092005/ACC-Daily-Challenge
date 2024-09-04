@@ -1,0 +1,8 @@
+Sample Input
+2
+4 9
+24 32
+
+Sample Output
+1 36
+8 96
