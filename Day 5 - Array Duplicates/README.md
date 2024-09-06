@@ -1,5 +1,6 @@
 # Day 5: Array Duplicates
 
+
 ## Problem Statement
 
 Given an array arr of size n which contains elements in range from 0 to n-1, you need to find all the elements occurring more than once in the given array. Return the answer in ascending order. If no such element is found, return list containing [-1].
