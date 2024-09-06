@@ -1,0 +1,11 @@
+Sample Input
+
+Input: n = 4, arr[] = [0,3,1,2]
+Output: -1
+
+
+Sample Input
+
+Input: n = 5, arr[] = [2,3,1,2,3]
+Output: 2 3
+
