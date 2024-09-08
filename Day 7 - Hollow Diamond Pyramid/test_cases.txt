@@ -2,10 +2,26 @@ Sample Input
 
 Input: n = 10
 Output:
-![rr](https://github.com/user-attachments/assets/f1d06bba-f02f-4b45-b1dd-edf1e29cb886)
+***** *****
+****   ****
+***     ***
+**       **
+*         *
+*         *
+**       **
+***     ***
+****   ****
+***** *****
 
 Sample Input
 
 Input: n = 9
 Output:
-![kk](https://github.com/user-attachments/assets/d5eb3f3f-047d-4d17-b5d4-69b9c0f228b8)
+**** ****
+***   ***
+**     **
+*       *
+*       *
+**     **
+***   ***
+**** ****
