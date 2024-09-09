@@ -10,6 +10,7 @@ Write a program that takes an integer input N and prints Numeric palindrome Equi
 
 - Input: n = 6
 - Output:
+  
   ![Untitled](https://github.com/user-attachments/assets/59a0decc-8ecb-4868-9428-ab65c91ecf4d)
 
 ## Expected Time Complexity
