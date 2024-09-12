@@ -1,0 +1,19 @@
+Sample Input
+
+Input: arr[] = [2, 4, 1, 3, 5]
+Output: 3
+Explanation: The third largest element in the array [2, 4, 1, 3, 5] is 3.
+
+
+Sample Input
+
+Input: arr[] = [10, 2]
+Output: -1
+Explanation: There are less than three elements in the array, so the third largest element cannot be determined.
+
+
+Sample Input
+
+Input: arr[] = [5, 5, 5]
+Output: 5
+Explanation: In the array [5, 5, 5], the third largest element can be considered 5, as there are no other distinct elements.
