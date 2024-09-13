@@ -7,14 +7,14 @@ Given an array arr[], check whether it is sorted in non-decreasing order. Return
 ## Examples
 
 **Example 1:**
-Input: arr[] = [10, 20, 30, 40, 50]
-Output: true
-Explanation: The given array is sorted.
+- Input: arr[] = [10, 20, 30, 40, 50]
+- Output: true
+- Explanation: The given array is sorted.
 
 **Example 2:**
-Input: arr[] = [90, 80, 100, 70, 40, 30]
-Output: false
-Explanation: The given array is not sorted.
+- Input: arr[] = [90, 80, 100, 70, 40, 30]
+- Output: false
+- Explanation: The given array is not sorted.
 
 ## Constraints
 
