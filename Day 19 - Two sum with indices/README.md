@@ -1,5 +1,4 @@
 # Day 19: Target Sum with Indices
-
 ## Problem Statement
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 
