@@ -28,6 +28,6 @@ You can return the answer in any order.
 
 - **O(n)**
 
-## Expected Space Complexity
+## Expected Auxiliary Space
 
 - **O(n)**
