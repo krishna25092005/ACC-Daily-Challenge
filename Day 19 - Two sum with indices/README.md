@@ -26,8 +26,8 @@ You can return the answer in any order.
 
 ## Expected Time Complexity
 
-- **O(nlogn)**
+- **O(n)**
 
-## Expected Space Complexity
+## Expected Auxiliary Space
 
 - **O(n)**
